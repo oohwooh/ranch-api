@@ -1,7 +1,7 @@
 brands = {
     'Hidden Valley Ranch': {
-        'description': 'Hidden Valley Original Ranch is well balanced,\
-         with subtle yet present flavors of garlic, onion, and black pepper.',
+        'description': 'Hidden Valley Original Ranch is well balanced, '\
+        'with subtle yet present flavors of garlic, onion, and black pepper.',
         'nutrition': {
             'serving_size': '2 tbsp (30mL)',
             'calories_per_serving': 130,
