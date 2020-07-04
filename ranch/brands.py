@@ -56,6 +56,34 @@ brands = {
                         'Garlic', 'Onion Puree (Onion, Vinegar, Salt)', 'Black Pepper',
                         'Mustard Flour', 'Dried Parsley', 'Dried Oregano', 'Lemon Juice Concentrate'],
         'contains': ['Egg', 'Milk']
+    },
+    'Wish-Bone Light Ranch': {
+        'name': 'Wish-Bone Light Ranch Dressing',
+        'description': 'Light ranch dressing is a deliciously rich adaptation of Wish-Bone\'s classic recipe.',
+        'nutrition': {
+            'serving_size': '2 Tbsp (30 mL)',
+            'calories_per_serving': 70,
+            'total_fat': '5g',
+            'saturated_fat': '1g',
+            'trans_fat': '0g',
+            'cholesterol': '<5g',
+            'sodium': '280mg',
+            'total_carbohydrate': '4g',
+            'fiber': '0g',
+            'total_sugars': '2g',
+            'protein': '0g',
+            'vitamin_d': '0mg',
+            'calcium': '0mg',
+            'iron': '0mg',
+            'potassium': '0mg'
+        },
+        'ingredients': ['WATER', 'SOYBEAN OIL', 'MALTODEXTRIN (CORN)', 'DISTILLED VINEGAR', 'BUTTERMILK*', 'SUGAR',
+                        'CORN SYRUP', 'MODIFIED CORN STARCH', 'SALT. CONTAINS 2% OR LESS OF: PHOSPHORIC ACID',
+                        'COLOR ADDED', 'GARLIC*', 'ONION*', 'XANTHAN GUM', 'EGG YOLKS', 'MONOSODIUM GLUTAMATE',
+                        'NATURAL FLAVORS', 'LEMON JUICE CONCENTRATE', 'SPICES', 'PROPYLENE GLYCOL ALGINATE',
+                        'DISODIUM INOSINATE AND DISODIUM GUANYLATE', 'SOY LECITHIN',
+                        'SODIUM BENZOATE AND SORBIC ACID AND CALCIUM DISODIUM EDTA (TO PROTECT QUALITY)'],
+        'contains': ['Egg', 'Milk']
     }
 }
 
