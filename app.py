@@ -16,4 +16,4 @@ def list_brands():
 @app.route('/brands/random')
 def random_brand():
     """Returns a random ranch brand"""
-    return random.choice(ranch.brands)
+    return random.choice(list(ranch.brands.values()))
